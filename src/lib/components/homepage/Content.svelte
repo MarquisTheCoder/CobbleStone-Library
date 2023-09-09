@@ -212,9 +212,9 @@
 				</div>
 			</div>
 
-			<div>
+			<!-- <div>
 				<h2 id="non-fiction">Non-fiction</h2>
-			</div>
+			</div> -->
 		</div>
 	</div>
 	<script>
