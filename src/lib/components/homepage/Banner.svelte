@@ -1,7 +1,8 @@
 <section
-	class="w-full h-[40rem] flex flex-row justify-center items-center px-20 bg-gradient-to-bl from-green-300 via-blue-500 to-purple-600"
+	class="w-full h-[40rem] md:h-[30rem] px-8 pt-20 md:px-24 flex flex-row justify-center md:items-center"
 >
-	<h1 class="text-[4rem] font-bold">
-		If you have knowledge, let others light their candles in it.
+	<h1 class="text-[3.4rem] md:text-[4rem] font-bold text-black/70">
+		If you have <a href="" class="text-emerald-500 hover:text-emerald-800">knowledge</a>, let others
+		light their candles in it.
 	</h1>
 </section>
