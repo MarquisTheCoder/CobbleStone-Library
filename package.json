@@ -35,5 +35,8 @@
 	"type": "module",
 	"dependencies": {
 		"tocbot": "^4.21.1"
-	}
+	},
+	 "engines": {
+    "node": ">=14 <15"
+  }
 }
