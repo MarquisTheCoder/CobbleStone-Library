@@ -1,7 +1,11 @@
-<h1 class="text-3xl font-bold underline">Hello world!</h1>
+<script>
+	import Homepage from '$lib/components/homepage/Hompage.svelte';
+</script>
+
+<Homepage />
 
 <style lang="postcss">
 	:global(html) {
-		background-color: antiquewhite;
+		background-color: #f4f4f2;
 	}
 </style>
