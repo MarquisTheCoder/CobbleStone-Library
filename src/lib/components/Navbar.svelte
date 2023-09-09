@@ -10,7 +10,7 @@
 			<a href="https://github.com" class="flex-shrink-0">
 				<img src="/imgs/github.svg" alt="" class="flex-shrink-0 w-5 h-15" />
 			</a>
-			<a href="https://github.com" class="font-thin hover:text-emerald-600"
+			<a href="https://github.com/MarquisTheCoder/cobblestone-library" class="font-thin hover:text-emerald-600"
 				>@CobblestoneRepository</a
 			>
 		</div>

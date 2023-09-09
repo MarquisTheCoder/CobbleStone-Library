@@ -4,8 +4,9 @@
 	import Content from './Content.svelte';
 </script>
 
-<div class="flex flex-col">
+<div class="flex flex-col mb-60">
 	<Navbar />
 	<Banner />
-	<Content />	
+	<Content />
+	<div class="w-full h-40" />
 </div>
