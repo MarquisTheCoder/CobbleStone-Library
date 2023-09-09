@@ -2,7 +2,7 @@
 	class="w-full h-[40rem] md:h-[30rem] px-8 pt-20 md:px-24 flex flex-row justify-center md:items-center"
 >
 	<h1 class="text-[3.4rem] md:text-[4rem] font-bold text-black/70">
-		If you have <a href="" class="text-emerald-500 hover:text-emerald-800">knowledge</a>, let others
-		light their candles in it.
+		If you have <a href="#js-toc" class="text-emerald-500 hover:text-emerald-800 cursor-pointer">knowledge</a>, let
+		others light their candles in it.
 	</h1>
 </section>
