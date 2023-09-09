@@ -7,5 +7,5 @@
 <div class="flex flex-col">
 	<Navbar />
 	<Banner />
-	<Content />
+	<Content />	
 </div>

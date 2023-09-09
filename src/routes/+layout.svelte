@@ -3,11 +3,6 @@
 </script>
 
 <svelte:head>
-	<script src="https://unpkg.com/@pluginjs/scroll-progress/dist/scroll-progress.js"></script>
-	<link
-		rel="stylesheet"
-		href="https://unpkg.com/@pluginjs/scroll-progress/dist/scroll-progress.css"
-	/>
-	<script src="/static/scripts/scroll.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/tocbot/4.18.2/tocbot.min.js"></script>
 </svelte:head>
 <slot />
