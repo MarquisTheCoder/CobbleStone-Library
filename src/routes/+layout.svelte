@@ -14,9 +14,15 @@
 
 	<meta property="og:title" content="Cobblestone Library" />
 
-	<meta property="og:description" content="Website made to spread knowledge based on popular discord server, Author: MarquisTheCoder, Category: Technology, Books, Pdfs" />
+	<meta
+		property="og:description"
+		content="Website made to spread knowledge based on popular discord server, Author: MarquisTheCoder, Category: Technology, Books, Pdfs"
+	/>
 
-	<meta property="og:image" content="https://pbs.twimg.com/media/F5mAtMZXoAE2oX0?format=jpg&name=4096x4096" />
+	<meta
+		property="og:image"
+		content="https://pbs.twimg.com/media/F5mAtMZXoAE2oX0?format=jpg&name=4096x4096"
+	/>
 
 	<meta property="og:url" content="https://cobblestone-library.onrender.com/" />
 
@@ -24,9 +30,15 @@
 
 	<meta name="twitter:title" content="Cobblestone Liobrary" />
 
-	<meta name="twitter:description" content="Website made to spread knowledge based on popular discord server, Author: MarquisTheCoder, Category: Technology, Books, Pdfs" />
+	<meta
+		name="twitter:description"
+		content="Website made to spread knowledge based on popular discord server, Author: MarquisTheCoder, Category: Technology, Books, Pdfs"
+	/>
 
-	<meta name="twitter:image" content="https://pbs.twimg.com/media/F5mAtMZXoAE2oX0?format=jpg&name=4096x4096" />
+	<meta
+		name="twitter:image"
+		content="https://pbs.twimg.com/media/F5mAtMZXoAE2oX0?format=jpg&name=4096x4096"
+	/>
 
 	<meta name="twitter:site" content="https://cobblestone-library.onrender.com/" />
 
@@ -34,5 +46,8 @@
 	<title>Cobblestone Library | bastion of freedom knowledge</title>
 
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/tocbot/4.18.2/tocbot.min.js"></script>
+
+	<link rel="mask-icon" href="/imgs/flame.svg" />
+	<link rel="icon" type="image/svg+xml" href="/imgs/flame.svg" />
 </svelte:head>
 <slot />
