@@ -6,6 +6,6 @@
 
 <style lang="postcss">
 	:global(html) {
-		background-color: theme(colors.background);
+		background-color: '#F4F4F2';
 	}
 </style>
